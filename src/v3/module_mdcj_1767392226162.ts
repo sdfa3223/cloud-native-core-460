@@ -1,0 +1,1 @@
+const util_mdcj = (d: any) => d;
