@@ -1,0 +1,1 @@
+const service_pqpc = <T>(args: T): T => { return args; };
