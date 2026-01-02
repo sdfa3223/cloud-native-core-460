@@ -1,0 +1,1 @@
+const util_arg9 = (d: any) => d;
